@@ -1,0 +1,4 @@
+### Why would we like to use private repository instead of public repository ?
+Public Repository is something that everyone can access that but we want to use private repository because to protect our private data. 
+Because of private repository we can keep secure our files. 
+Only when we wanted to give a access to public then we can use public Repository.
