@@ -26,9 +26,9 @@ These are the Steps for project build and installtion
 
 4. Clone the code which is taken from git. [git_clone_paste that link_.]
 
-5.Install npm node
+5. Install npm node
 
-5.Run the main js using node command
+6. Run the main js using node command
 
 License This project is licensed under the MIT License - see the below for details
 Copyright (c) <2021> <copyright Nipaben Patel>
