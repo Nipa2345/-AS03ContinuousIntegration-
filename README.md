@@ -3,11 +3,9 @@ Project Development Assignment03
 This README would normally document whatever steps are necessary to get your application up and running.
 
 ## Student Details
-Name = Nipaben Patel
-Student ID = 8778797
-Email = npatel8797@conestogac.on.ca
-
-
+Name : Nipaben Patel
+Student ID : 8778797
+Email Id : npatel8797@conestogac.on.ca
 
 ## What is this repository ?
 This access control system software codes is a keyless entry system that gives you total control over your commercial or residential premises by granting physical access to authorized users only. It is an essential part of any security solution. You can customize this system to fit your specific requirements and easily integrate it with other systems such as visitorsí management systems or alarm systems.Quick summary
@@ -16,13 +14,13 @@ This access control system software codes is a keyless entry system that gives y
 
 ## How do I get set up?
 
-These are the Steps for project build and installtion
+These are the Steps for project build and installtion.
 
 1. Download the project from git or copy the link of HTTPS from git.
 
 2. Open the Visual Studio Code(VS Code)
 
-3. Open the terminal 
+3. Open the terminal then go to New terminal
 
 4. Clone the code which is taken from git. [git_clone_paste that link_.]
 
