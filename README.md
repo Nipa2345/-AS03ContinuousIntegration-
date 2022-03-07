@@ -8,7 +8,7 @@ This access control system software codes is a keyless entry system that gives y
 
 ## This is the link for getting a repository.
 
-https://github.com/Nipa2345/-AS03ContinuousIntegration-
+https://github.com/Nipa2345/ContinuousIntegration
 
 ## How do I get set up?
 
